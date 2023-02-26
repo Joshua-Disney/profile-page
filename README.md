@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Note to self: Read through the above and then begin to document all work and intentions here.
+
+Concept: Pull data from FRED {Federal Reserve Economic Data} api and display relevant information from response data on screen.
+
+ToDos :
+
+[] Create FRED account
+[] Acquired FRED api access key
+[] Build landing page
+[] Build login
+[] Build display desktop
+[] Sytle display info
